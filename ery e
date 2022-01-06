@@ -1,0 +1,21 @@
+<html>
+<body>
+    <article> 
+      <header> 
+        <img src="tweeter/images/close.png" height="15" width="15" /> 
+        <img src="app/avatar-01_v1.png" height="40" width="40" /> 
+        <h1>meeeves mee</h1> 
+        <h2>@meeeves</h2> 
+      </header> 
+      <blockquote> 
+        Hi, everyone. I'm learning to type on <a 
+href="https://www.typing.com" target="_blank">www.typing.com</a>. Wow, a link! 
+      </blockquote> 
+      <hr /> 
+      <footer> 
+        <p>Posted <time>01/06/2022 10:15:20 AM</time></p> 
+        <img src="tweeter/images/heart.svg" height="15" width="16" /> 
+      </footer> 
+    </article> 
+</body>
+</html>
