@@ -6,9 +6,9 @@
 			<p> <h3> I am a human </h3> </p> 
 	        </article>
          </header>
-			<p> <b> Hello </b> to <i> everyone </i> reading this </p>
+			<p> <i> <b> Hello </b> to everyone reading this </i> </p>
 			<p> I wish you all the best 😀 </p>
-		        <p> As everyone know there is a game called <b> minecraft </b> that is currently a great game </p>
+		        <p> As everyone know there is a game called <b> MINECRAFT </b> that is currently a great game </p>
                         <p> Now i present you minecraft that is minecraft but in youtube </p>
 			<p> Now here is a video from minecraft >https://www.youtube.com/watch?v=xWgCcMRE1es </p>
 			<p> In this video the youtuber tries to beat minecraft in his own imagination/MOD but true i havent watch it yet so yeah enjoy </p>
